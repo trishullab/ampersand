@@ -1,4 +1,4 @@
-## Ampersand: Neurosymbolic Algorithms for Machine Programming and Reasoning 
+## Ampersand
 
 The Ampersand project aims to build a new generation of neurosymbolic algorithms for the automatic synthesis of programs and mathematical proofs from high-level goals. Classical methods for these problems are based on rule-based search. In contrast, recent learning-based approaches treat code and proofs as text to which large statistical models can be directly applied. We aim to offer the best of the two worlds by exposing machine learning models to the formal semantics of proofs and code, and by guiding rule-based searches using learned models. 
 
